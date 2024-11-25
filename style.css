@@ -1,1 +1,33 @@
-
+      body {
+          font-family: Corbel Light, MS Gothic;
+          background-color: #ed0000;
+          color: white;
+          margin: 0;
+          padding: 20px;
+      }
+      header {
+          text-align: center;
+          padding: 20px;
+          background-color: #007FFF;
+      }
+      h1 {
+          margin: 2,5;
+      }
+      nav {
+          margin: 20px 0;
+      }
+      nav a {
+          color: white;
+          text-decoration: none;
+          margin: 0 15px;
+      }
+      section {
+          margin: 20px 0;
+          padding: 20px;
+          background-color: #5D8AA8;
+      }
+      footer {
+          text-align: center;
+          margin-top: 20px;
+          padding: 10px;
+          background-color: #848482;
